@@ -1,0 +1,2 @@
+GET http://localhost:7071/api/WhitelistMe
+X-Forwarded-For: 10.10.0.1
